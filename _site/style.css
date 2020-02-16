@@ -16,6 +16,14 @@ h1, h2 {
   font-family: 'justanotherhand';
   margin-top: 0;
   color: #00aa00;
+  font-weight: normal;
+  letter-spacing: 1px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 28px;
+  margin-bottom: 0;
 }
 
 h2 {
