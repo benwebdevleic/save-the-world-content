@@ -1,0 +1,43 @@
+---
+---
+
+@font-face {
+  font-family: 'justanotherhand';
+  font-style: normal;
+  font-weight: normal;
+  src: url('{{ "/assets/fonts/JustAnotherHand-Regular.ttf" | absolute_url }}');
+}
+
+body {
+  font-size: 18px;
+  font-family: Arial;
+  line-height: 1.5555;
+  color: #333;
+}
+
+h1, h2 {
+  font-family: 'justanotherhand';
+  margin-top: 0;
+  color: #00aa00;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+p {
+  margin-top: 0;
+}
+
+ul {
+  padding-left: 17px;
+  margin-top: 0;
+}
+
+li {
+  margin-bottom: 1em;
+}
+
+.img-row {
+  text-align: center;
+}
